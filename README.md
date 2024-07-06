@@ -1,9 +1,7 @@
 # E-commerce-Booking-Analysis
 Data Analysis Project using Microsoft Excel.
-# E-Commerce Analysis Readme
-
 ## Overview
-This Excel file contains an analysis of e-commerce transactions across various platforms and different states for [Year]. The analysis provides insights into sales performance, customer behavior, and market trends to support strategic decision-making.
+This Excel file contains an analysis of e-commerce transactions across various platforms and different states for a year. The analysis provides insights into sales performance, customer behavior, and market trends to support strategic decision-making.
 
 ## Files Included
 - **E_Commerce_Analysis.xlsx**: The main Excel file containing the analysis.
